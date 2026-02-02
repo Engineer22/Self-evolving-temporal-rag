@@ -180,9 +180,3 @@ This repository accompanies the research paper:
 “A Self-Evolving Temporal Retrieval-Augmented Generation System for Time-Sensitive Knowledge Access”
 
 All LaTeX sources are available in the paper/ directory.
-
-👤 Author
-
-Swarajaya Singh Sawant
-Department of Computer Science
-Dehradun, India
